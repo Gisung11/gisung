@@ -6,4 +6,4 @@ ___
 >직업 : 학생
 >거주지 : 김해
 >가고싶은 나라 : 일본 삿포로
-![]https://a.cdn-hotels.com/gdcs/production135/d521/bba19247-6149-43cf-8357-4ca651715730.jpg
+![](https://a.cdn-hotels.com/gdcs/production135/d521/bba19247-6149-43cf-8357-4ca651715730.jpg)
